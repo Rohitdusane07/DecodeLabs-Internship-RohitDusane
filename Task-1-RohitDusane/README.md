@@ -79,3 +79,6 @@ npm run build
 ## 👨‍💻 Developer
 
 * Rohit Vijay Dusane
+
+## Live website link
+https://interactive-ai-education-platform.netlify.app/
